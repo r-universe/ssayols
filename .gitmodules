@@ -8,3 +8,8 @@
 	url = https://github.com/ssayols/dupradar
 	shallow = true
 	registered = true
+[submodule "rrvgo"]
+	path = rrvgo
+	url = https://github.com/ssayols/rrvgo
+	shallow = true
+	registered = true
